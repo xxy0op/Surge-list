@@ -106,6 +106,7 @@ IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
 #X.ai
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 #Meta.ai
 DOMAIN,ai.meta.com
 DOMAIN-SUFFIX,meta.ai
